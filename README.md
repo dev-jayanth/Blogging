@@ -16,4 +16,4 @@ Now Connecting Database
 After Creating Database,
 
 9th Step: Open a browser and go to URL “http://localhost/Blogging” 
-          To login in as admin go to URL "http://localhost/blogging/admin/admin_login.php"
+          To login in as admin go to URL "http://localhost/Blogging/admin/admin_login.php"
